@@ -1,0 +1,45 @@
+body {
+  background-color: #DBDFAC;
+  text-align: center;
+}
+
+.page {
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+}
+
+.number-conversion {
+    display:flex;
+    flex-direction: column;
+}
+
+.rn-conversion {
+  display:flex;
+  flex-direction: column;
+}
+
+h1 {
+  background-color: #5F758E;
+  border: 5px groove #D5F2E3;
+  color: #D5F2E3;
+}
+
+p {
+  color: #5F758E;
+}
+
+
+#num-button {
+  background-color: #5F758E;
+  border-color: white;
+  border-radius: 5px;
+  color: #D5F2E3;
+}
+
+#rn-button{
+  background-color: #5F758E;
+  border-color: white;
+  border-radius: 5px;
+  color: #D5F2E3;
+}
